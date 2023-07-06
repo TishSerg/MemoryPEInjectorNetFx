@@ -1,0 +1,7 @@
+# IDE stuff
+.vs/
+
+# Build aftifacts
+Debug/
+Release/
+x64/
