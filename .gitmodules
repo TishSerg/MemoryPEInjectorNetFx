@@ -1,0 +1,3 @@
+[submodule "MemoryPEInjector"]
+	path = MemoryPEInjector
+	url = https://github.com/TishSerg/MemoryPEInjector
